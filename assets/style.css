@@ -1,0 +1,136 @@
+.all{
+    width: 300px;
+    height: 100px;
+    border: 1px solid orange;
+    background-color: orange;
+    display: flex;
+    margin: 3%;
+}
+
+
+
+.one{
+    width: 100px;
+    border: 1px solid orange;
+    background-color: orange;
+    display: flex;
+    justify-content: center; 
+     align-items: center;
+    transition-duration: 1s ;
+
+}
+
+.one:hover{
+background-color: red;
+cursor: pointer;
+
+}
+.two{
+    width: 100px;
+    border: 1px solid orange;
+    background-color: orange;
+    transition-duration: 1s;
+
+}
+
+.two span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 38%;
+}
+
+.two:hover{
+    background-color: red;
+    cursor: pointer;
+    
+
+}
+
+
+.three{
+    width: 100px;
+    border: 1px solid orange;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+}
+
+.three:hover{
+    background-color: red;
+    cursor: pointer;}
+
+
+    .submit{
+        width: 160px;
+        height: 300px;
+        border: 1px solid orange;
+        background-color: orange;
+        display: flex;
+        flex-direction: column;
+        margin-top: 44%;
+        margin-left: 0%;
+        display: none;
+        
+    }
+
+     .two:hover .submit{
+        display: block;
+     }
+    
+    .sub1{
+        height: 100px;
+        border: 1px solid orange;
+        background-color: orange;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition-duration: 1s ;
+    
+    }
+    
+    .sub1:hover{
+        background-color: red;
+        cursor: pointer;
+    }
+    
+    .sub2{
+        height: 100px;
+        border: 1px solid orange;
+        background-color: orange;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition-duration: 1s ;
+    
+    }
+    
+    .sub2:hover{
+        background-color: red;
+        cursor: pointer;
+    }
+    
+    .sub3{
+        height: 100px;
+        border: 1px solid orange;
+        background-color: orange;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition-duration: 1s ;
+    
+    }
+    
+    .sub3:hover{
+        background-color: red;
+        cursor: pointer;
+    }
+
+
+    
+    
+
+
+   
